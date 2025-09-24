@@ -1,0 +1,63 @@
+Here’s a ready-to-use README.md file for your NumPy project:
+
+# NumPy Operations Tutorial – FreeCodeCamp (1-Hour Video)
+
+This repository contains Python scripts demonstrating **NumPy operations** from the FreeCodeCamp 1-hour tutorial. Each `.py` file includes multiple examples with comments explaining the code line by line.
+
+## Project Structure
+
+
+
+01_numpy_basics.py # Introduction to NumPy, creating arrays, array attributes
+02_array_creation.py # Creating arrays: zeros, ones, arange, linspace, random
+03_array_operations.py # Basic arithmetic operations on arrays
+04_array_indexing.py # Indexing, slicing, and accessing elements
+05_array_reshaping.py # Reshaping arrays, flattening, ravel
+06_stacking_splitting.py # Stacking arrays (hstack, vstack), splitting arrays
+07_statistical_ops.py # Mean, median, sum, min, max, standard deviation
+08_boolean_masking.py # Boolean indexing, masks, filtering arrays
+09_linear_algebra.py # Dot product, matrix multiplication, determinants
+10_random_numbers.py # Random integers, random floats, seeding
+README.md # This file
+
+
+## How to Use
+
+1. Clone the repository:
+
+```bash
+git clone <your-repo-link>
+cd numpy-tutorial
+
+
+Install dependencies:
+
+pip install numpy
+
+Array Creation: np.array(), np.zeros(), np.ones(), np.arange(), np.linspace(), np.random.rand(), np.random.randint()
+
+Array Attributes: shape, dtype, ndim, size
+
+Arithmetic Operations: element-wise addition, subtraction, multiplication, division
+
+Indexing & Slicing: accessing single elements, slices, negative indexing
+
+Reshaping & Flattening: reshape(), ravel(), flatten(), transpose()
+
+Stacking & Splitting: hstack(), vstack(), split()
+
+Statistical Operations: sum(), mean(), median(), min(), max(), std()
+
+Boolean Indexing & Masking: filtering arrays with conditions
+
+Linear Algebra: dot product, matrix multiplication, determinant
+
+Random Numbers: generating random integers, floats, setting seeds
+
+Notes
+
+Each .py file contains commented examples for learning and practice.
+
+You can modify values to experiment and explore NumPy further.
+
+Combine operations to build more complex scripts or data analysis tasks.
