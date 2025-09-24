@@ -54,6 +54,3 @@ They cover all basic and essential NumPy operations taught in the FreeCodeCamp t
 
 You can combine multiple operations to explore more advanced data manipulation and analysis.
 
-If you want, I can also rewrite it in an even cleaner “Word doc style” with headings, bullet points, and sections that look like a proper tutorial guide.
-
-Do you want me to do that?
