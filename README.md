@@ -1,0 +1,59 @@
+NumPy Operations Tutorial – FreeCodeCamp (1-Hour Video)
+
+This document explains the Python scripts demonstrating NumPy operations from the FreeCodeCamp 1-hour tutorial. Each Python file includes multiple examples with comments explaining the code line by line.
+
+Project Overview
+
+The project contains multiple Python scripts covering different aspects of NumPy. These scripts together provide a comprehensive overview of NumPy for beginners and intermediate users. The main topics covered include:
+
+NumPy Basics – Introduction to NumPy, creating arrays, and understanding array attributes such as shape, size, and data type.
+
+Array Creation – Creating arrays using zeros, ones, arange, linspace, and random number generation.
+
+Array Operations – Performing arithmetic operations such as addition, subtraction, multiplication, and division on arrays.
+
+Indexing & Slicing – Accessing elements, slicing arrays, and using negative indexing.
+
+Reshaping & Flattening – Reshaping arrays, flattening, raveling, and transposing arrays.
+
+Stacking & Splitting – Combining arrays vertically and horizontally, and splitting arrays into multiple parts.
+
+Statistical Operations – Calculating sum, mean, median, minimum, maximum, and standard deviation.
+
+Boolean Indexing & Masking – Filtering arrays using conditions and masks.
+
+Linear Algebra – Performing dot products, matrix multiplication, and computing determinants.
+
+Random Numbers – Generating random integers and floats, and setting seeds for reproducibility.
+
+How to Use
+
+Clone the repository:
+
+git clone <your-repo-link>
+cd numpy-tutorial
+
+
+Install dependencies:
+
+pip install numpy
+
+
+Run any script:
+
+python script_name.py
+
+
+Each script contains detailed comments for learning and experimentation. You can modify values and try different operations to better understand NumPy.
+
+Notes
+
+The scripts are designed for learning and practice.
+
+They cover all basic and essential NumPy operations taught in the FreeCodeCamp tutorial.
+
+You can combine multiple operations to explore more advanced data manipulation and analysis.
+
+If you want, I can also rewrite it in an even cleaner “Word doc style” with headings, bullet points, and sections that look like a proper tutorial guide.
+
+Do you want me to do that?
